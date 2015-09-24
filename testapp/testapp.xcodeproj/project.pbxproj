@@ -159,6 +159,8 @@
 		03DAC81D1BA8242800C8ADEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Effective Mind";
 				TargetAttributes = {
@@ -427,6 +429,7 @@
 				03DAC8481BA8242900C8ADEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		03DAC8491BA8242A00C8ADEA /* Build configuration list for PBXNativeTarget "testappTests" */ = {
 			isa = XCConfigurationList;
@@ -435,6 +438,7 @@
 				03DAC84B1BA8242A00C8ADEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
